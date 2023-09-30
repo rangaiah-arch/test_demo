@@ -1,0 +1,17 @@
+terraform
+github
+amazon web service
+kubernates
+docker
+visual code
+commands
+git --version
+git --help
+git config help
+get init
+mkdir
+cd folder name
+gitstatus
+git add file name
+git commit -m"commiting text file"
+
